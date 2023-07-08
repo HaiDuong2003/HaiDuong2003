@@ -42,19 +42,4 @@ public class CartScreen extends JFrame {
 
         this.setSize(1024, 768);
     }
-
-    // public static void main (String[] args){
-    //     Cart cart = new Cart();
-    //     Store store = new Store();
-    //     for (int i = 1; i<=9; i++) {
-    //         try {
-    //             cart.addMedia(new DigitalVideoDisc(i, "DVD"+i, "A", 10, "nmd", (float)10.0));
-    //         } catch (LimitExceededException e) {
-    //             throw e;
-    //         }
-    //     }
-        
-
-    //     new CartScreen(cart, store);
-    // }
 }
